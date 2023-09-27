@@ -35,9 +35,7 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                      Meet our passionate team of educators, developers, and designers who are committed to creating the best learning experience for you.
                       </p>
 
                       <div className="student__info mt-4">
@@ -53,9 +51,7 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                      Meet our passionate team of educators, developers, and designers who are committed to creating the best learning experience for you.
                       </p>
 
                       <div className="student__info mt-4">
@@ -71,9 +67,7 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                      Meet our passionate team of educators, developers, and designers who are committed to creating the best learning experience for you.
                       </p>
 
                       <div className="student__info mt-4">

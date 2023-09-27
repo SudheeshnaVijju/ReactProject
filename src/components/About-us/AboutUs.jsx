@@ -20,9 +20,7 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+              I'd be happy to help you learn as much as possible in your app! However, to provide you with relevant information and guidance, I'll need more specific details about the app you're using and what you want to learn.
               </p>
 
               <div className="about__counter">

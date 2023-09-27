@@ -14,9 +14,7 @@ const HeroSection = () => {
                 Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+              Meet our passionate team of educators, developers,<br /> and designers who are committed to <br />creating the best learning experience for you.
               </p>
             </div>
             <div className="search">
